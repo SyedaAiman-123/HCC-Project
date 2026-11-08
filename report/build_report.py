@@ -857,10 +857,10 @@ python performance.py                   # full experiments (about 1 minute), wri
         "from 1 to 79 with rails 2 to 11, short and long messages, messages shorter and longer than the key, invalid "
         "keys, empty input, repeated letters, 60 random successful attacks, insufficient or incorrect known "
         "plaintext, rail counts outside the search range, and that the recovered keys reproduce the supplied "
-        "ciphertext. All 52 tests pass.")
+        "ciphertext. All 57 tests pass.")
     r.h2("9.3 Source Code Repository")
     r.p("The complete source code, tests, experiment results and this report are submitted in a GitHub repository:")
-    r.p("[[GitHub repository link: https://github.com/<username>/HCC-Project  (insert the final link here)]]",
+    r.p("https://github.com/SyedaAiman-123/HCC-Project",
         align="left")
 
     # ===================================================================== 10 Limitations
